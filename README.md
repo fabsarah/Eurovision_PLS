@@ -11,7 +11,7 @@ The code is in "Eurovision_PLS.m" and all the necessary variables are in "Eurovi
   2. Arousal_R: Arousal variables in song order
   3. Valence: Valence extracted from song files using MIR Toolbox
   4. Valence_R: Valence variables in song order
-  5. Concensus: song data and average scores on survey items (songs are rows (n = 21), features are columns (n = 20))
+  5. Concensus: song data and average scores on survey items (songs are rows (n = 21), features are columns (n = 20), excel file with the original data is in "Eurovision Concensus Ratings.xls")
   6. Concensus_Labs: labels for the concensus matrix (columns)
   7. evres: the PLS results
   8. Feature_Labels: Valence and Arousal fature labels
