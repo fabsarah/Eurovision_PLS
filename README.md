@@ -1,5 +1,5 @@
 # Eurovision_PLS
-Code and variables for the "What makes a Eurovision song Eurovision-y" project (background info here: https://twitter.com/sciencebanshee/status/1396157641466974214).
+Code and variables for the "What makes a Eurovision song Eurovision-y" project (background info here was on twitter, but I've since deactivated my account. I'm working on getting a more thorough background worked up).
 
 To run this code, you will need:
 1. MatLab!
